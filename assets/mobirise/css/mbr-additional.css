@@ -2010,17 +2010,17 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
+  background: #2e2e2e;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #2e2e2e, #465052) !important;
 }
 .cid-roj7pDh9ap .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
 .cid-roj7pDh9ap .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.9 !important;
 }
 .cid-roj7pDh9ap .mbr-gallery-title {
   font-size: .9em;
@@ -2040,11 +2040,11 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
+  background: #2e2e2e !important;
+  opacity: 0.9;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #2e2e2e, #465052) !important;
 }
 .cid-rojHDNP27i {
   padding-top: 0px;
